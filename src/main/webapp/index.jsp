@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hiello Prajeet!</title>
+<title>Hello Prajeet!</title>
 </head>
 <body>
 	<h1>Hello Prayank, how are you doing today!</h1>
